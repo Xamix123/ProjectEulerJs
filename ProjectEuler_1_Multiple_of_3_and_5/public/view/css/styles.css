@@ -1,0 +1,11 @@
+.inputNumber {
+    font-size: 30px;
+    width: 100%;
+    height: 50px;
+}
+
+textarea {
+    font-size: 30px;
+    width: 100%;
+    height: 500px;
+}
